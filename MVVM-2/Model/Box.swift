@@ -1,10 +1,4 @@
-//
-//  Box.swift
-//  MVVM-2
-//
-//  Created by Влад Бокин on 14.10.2022.
-//  Copyright © 2022 Ivan Akulov. All rights reserved.
-//
+
 
 import Foundation
 
